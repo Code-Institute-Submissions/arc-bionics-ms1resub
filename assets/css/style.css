@@ -34,3 +34,11 @@ body {
     font-size: 2em;
     color: #e5a607;
 }
+
+.main .btn {
+    background: #e5a607;
+    color: black;
+    border-radius: 0;
+    padding: .5rem 1.2rem;
+    margin-top: 5rem;
+}
