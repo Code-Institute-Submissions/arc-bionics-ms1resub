@@ -1,1 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    position: relative;
+    background-image: url("../images/pexels-welcome-arc.jpg");
+    min-height: 90vh;
+    background-size: cover;
+    background-position: center;
+    padding: 220px 0 200px;
+}
