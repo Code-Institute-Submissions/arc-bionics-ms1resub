@@ -59,3 +59,11 @@ body {
     font-weight: 700;
     padding-bottom: 1rem;
 }
+
+.gallery-item img:hover {
+    transform : scale(1.1);
+}
+
+.gallery-item img {
+    transition: transform .4s ease;
+}
