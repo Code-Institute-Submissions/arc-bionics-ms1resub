@@ -53,3 +53,9 @@ body {
     background-color: yellow;
     border-color: #fff;
 }
+
+.heading {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
