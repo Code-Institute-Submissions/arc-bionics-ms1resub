@@ -42,3 +42,14 @@ body {
     padding: .5rem 1.2rem;
     margin-top: 5rem;
 }
+
+.mid-center {
+    background-color: black;
+    color: #e5a607;
+}
+
+.btn-secondary {
+    color: #000;
+    background-color: yellow;
+    border-color: #fff;
+}
