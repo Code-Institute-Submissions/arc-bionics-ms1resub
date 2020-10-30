@@ -29,4 +29,64 @@ In the UX section below you will be able to see this.
 
 To view my live website, please click onto this below:
 
-[View the live project here.](https://shazaiib47.github.io/arc-bionics-new/)
+[View the live project here.](https://shazaiib47.github.io/arc-bionics-ms1resub/)
+
+## User Experience (UX) <a name="ux"></a>
+
+-   ### User Stories
+
+    - ### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to easily navigate through the site to find content.
+        2. As a First Time Visitor, I want to be able to browse the social links to see how known they are.
+        3. As a First Time Visitor, I want to be able to see a company logo located within the website.
+        4. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
+
+    - ### Site Owner Goals
+
+        1. As a Site Owner, I want to create a very interactive website with links to allow the user to grasp clearly what is going on.
+        2. As a Site Owner, I want the user to be able to submit a query using a form provided to get in contact with the company.
+        3. As a Site Owner, I want the user to clearly make their way around the website with the links given as well as the social links.
+        4. As a Site Owner, I want the user to be able to communicate with the company through the social links given.
+        5. As a Site Owner, I want the user to view images clearly and to be able to view what the main purpose of the site is.
+
+    - ### Font Selection 
+
+    - I had chosen a universal font to be used across the whole of the website as this made styling easy and had fit in well with the theme of my website.
+      The Font I had chosen was [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=noto+sa)
+
+- ### Colour Choice 
+
+    - When considering the colour theme of my website in the pre planning phase, I had to choose a theme that combined colours effortlessly
+      and ensure that there would be no confusion so the user does not get distracted by the colours used. 
+
+      The Images and text colour had contrasted the theme of the logo and website well, so I had chosen a mix of colours which include; Black, White, Grey and 
+      a shade of yellow as seen below.
+
+      <h2 align="center"><img src="/documentation/readme/Color-Pallete-Site.png"></h2>
+
+- ### Logo Creation
+
+    - When Creating the Logo in the pre planning phase, I had to make sure If i wanted the logo present at the header of the website or just the text to be 
+      made as responsive. Upon further thinking, I had then decided to add the logo within the site itself so it was embedded.
+      
+    - I wanted the Logo to have a futuristic touch to it as bionics is something of the future and enables the user to think bionics are the future 
+      and will be quickly in development as it will under go trials to be used in the NHS.
+    
+    - The Logo was created entirely by my own design as well as the image by using the online resource called [Logo Makr](https://logomakr.com).
+
+    <h2 align="center"><img src="/assets/images/arcbionics-logo.png"></h2>
+
+## Wireframes <a name="wireframes"></a>
+
+- ### Creation
+
+    - I had created the wireframes as a draft and How I wanted the layout to be in the final website.
+      Upon comparing the wireframes and the final design, there are subtle changes in regards to the form and various elements.
+    
+    - My Wireframes focus on the basic layout structure of the website and then identifying how it would look across multiple devices.
+ 
+
+    - The Wireframes that I had developed were in [Balsamiq](https://balsamiq.com)
+
+    - Wireframes for the website including mobile layout can be found [Here](documentation/wireframes/ms1-wireframes-resub.pdf)
