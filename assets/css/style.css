@@ -1,143 +1,142 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-
 * {
-    margin: 0;
-    padding: 0;
+   margin: 0;
+   padding: 0;
 }
 
 html {
-    scroll-behavior: smooth;
+   scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Noto Sans', sans-serif;
-    overflow-x: hidden;
-    overflow-y: auto;
+   font-family: 'Noto Sans', sans-serif;
+   overflow-x: hidden;
+   overflow-y: auto;
 }
 
 .offset:before {
-    content: "";
-    height: 3.875rem;
-    display: block;
-    margin-top: -3.875rem;
+   content: "";
+   height: 3.875rem;
+   display: block;
+   margin-top: -3.875rem;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #e5a607;
-    padding-right: 4rem;
-    padding-top: .8rem;
-    padding-left: 2rem;
+   color: #e5a607;
+   padding-right: 4rem;
+   padding-top: .8rem;
+   padding-left: 2rem;
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-    color: #ffffff!important;
+   color: #ffffff!important;
 }
 
 .navbar-dark .navbar-brand {
-    font-size: 2.4rem;
+   font-size: 2.4rem;
 }
 
 .navbar-dark .navbar-brand:hover {
-    color: #e5a607;
+   color: #e5a607;
 }
 
 .bg-dark {
-    background-color: #000000!important;
+   background-color: #000000!important;
 }
 
 .main {
-    position: relative;
-    background-image: url("../images/pexels-welcome-arc.jpg");
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
-    min-height: 90vh;
-    background-size: cover;
-    background-position: center;
-    padding: 220px 0 200px;
+   position: relative;
+   background-image: url("../images/pexels-welcome-arc.jpg");
+   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5);
+   min-height: 90vh;
+   background-size: cover;
+   background-position: center;
+   padding: 220px 0 200px;
 }
 
 .main h2 {
-    margin: 0;
-    padding: 0;
-    font-size: 5em;
-    color: #e5a607;
-    text-transform: uppercase;
-    font-weight: bold;
+   margin: 0;
+   padding: 0;
+   font-size: 5em;
+   color: #e5a607;
+   text-transform: uppercase;
+   font-weight: bold;
 }
 
 .main p {
-    margin-top: 1em;
-    padding: 0;
-    font-size: 2em;
-    color: #e5a607;
+   margin-top: 1em;
+   padding: 0;
+   font-size: 2em;
+   color: #e5a607;
 }
 
 .main .btn {
-    background: #e5a607;
-    color: black;
-    border-radius: 0;
-    padding: .5rem 1.2rem;
-    margin-top: 5rem;
+   background: #e5a607;
+   color: black;
+   border-radius: 0;
+   padding: .5rem 1.2rem;
+   margin-top: 5rem;
 }
 
 .mid-center {
-    background-color: black;
-    color: #e5a607;
+   background-color: black;
+   color: #e5a607;
 }
 
 .btn-secondary {
-    color: #000;
-    background-color: yellow;
-    border-color: #fff;
+   color: #000;
+   background-color: yellow;
+   border-color: #fff;
 }
 
 .heading {
-    text-transform: uppercase;
-    font-weight: 700;
-    padding-bottom: 1rem;
+   text-transform: uppercase;
+   font-weight: 700;
+   padding-bottom: 1rem;
 }
 
 .gallery-item img:hover {
-    transform : scale(1.1);
+   transform: scale(1.1);
 }
 
 .gallery-item img {
-    transition: transform .4s ease;
+   transition: transform .4s ease;
 }
 
 .footer {
-    background-color: #cc7a00;
+   background-color: #cc7a00;
 }
 
 .footer img {
-    height: 4rem;
+   height: 4rem;
 }
 
 .footer a {
-    color: black;
-    text-decoration: none;
+   color: black;
+   text-decoration: none;
 }
 
 ul.social {
-    list-style-type: none;
-    display: flex;
-    padding: 0;
-    margin: 0 auto;
-    max-width: 11.9rem;
+   list-style-type: none;
+   display: flex;
+   padding: 0;
+   margin: 0 auto;
+   max-width: 11.9rem;
 }
 
 ul.social.li {
-    margin: 0 auto;
-    display: inline;
+   margin: 0 auto;
+   display: inline;
 }
 
 .fab {
-    font-size: 2rem;
-    padding-right: 1.2rem;
+   font-size: 2rem;
+   padding-right: 1.2rem;
 }
 
 hr.socket {
-    border-top: .2rem solid #b36b00;
+   border-top: .2rem solid #b36b00;
 }
 
 .form-section {
@@ -194,14 +193,14 @@ hr.socket {
 }
 
 @media screen and (max-width: 823px) {
-        .signup-form {
-            margin-left: inherit;
-            max-width: fit-content;
-        }
+   .signup-form {
+      margin-left: inherit;
+      max-width: fit-content;
+   }
 }
 
 @media screen and (max-width: 800px) {
    .signup-form {
-       margin-left: inherit;
+      margin-left: inherit;
    }
 }
