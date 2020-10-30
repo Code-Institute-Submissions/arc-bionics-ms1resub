@@ -140,6 +140,14 @@ hr.socket {
     border-top: .2rem solid #b36b00;
 }
 
+.form-section {
+   clear: left;
+   background-image: url("../images/pexels-engineering.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+}
+
 .signup-form {
    margin-top: 150px;
    color: #000000;
@@ -183,4 +191,17 @@ hr.socket {
 .join-button:hover {
    background-color: #fafafa;
    color: #f16c6b;
+}
+
+@media screen and (max-width: 823px) {
+        .signup-form {
+            margin-left: inherit;
+            max-width: fit-content;
+        }
+}
+
+@media screen and (max-width: 800px) {
+   .signup-form {
+       margin-left: inherit;
+   }
 }
