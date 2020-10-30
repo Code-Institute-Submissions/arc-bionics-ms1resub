@@ -68,3 +68,11 @@ body {
 .gallery-item img {
     transition: transform .4s ease;
 }
+
+.footer {
+    background-color: #cc7a00;
+}
+
+.footer img {
+    height: 4rem;
+}
