@@ -90,3 +90,43 @@ To view my live website, please click onto this below:
     - The Wireframes that I had developed were in [Balsamiq](https://balsamiq.com)
 
     - Wireframes for the website including mobile layout can be found [Here](documentation/wireframes/ms1-wireframes-resub.pdf)
+
+## Features <a name="features"></a>
+
+- Responsive on all device sizes, from handhelds to tablets by using Media Queries.
+
+- Interactive Elements used across the website.
+
+- Captivating hero image with an effect added to grasp user's attention.
+
+- Adaptive Colour Theme used to bring the website together.
+
+
+## Technologies Used <a name="techused"></a>
+
+- ### Languages Used
+
+    - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+        - Used as the main language for website content and production.
+    
+    - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+        - Used to style the HTML pages individually.
+
+- ### Frameworks, Libraries and Programs Used.
+
+    1. [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+        - Bootstrap was used to assist with both the styling and responsiveness of the website.
+    2. [Google Fonts](https://fonts.google.com)
+        - Google Fonts was used to import 'Noto Sans' font into style.css to be used across the website.
+    3. [Font Awesome](https://fontawesome.com)
+        - Font Awesome was used on all pages to add icons for aesthetic and mainly UX purposes to suit theme of website.
+    4. [Git](https://git-scm.com/)
+        - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    5. [GitHub](https://github.com/)
+        - GitHub is used to store the projects code after being pushed from Git.
+    6. [Balsamiq](https://balsamiq.com/)
+         - Balsamiq was used to create the wireframes during the design process.
+    7. [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+         - HTML Formatter was used to indent and beautify my code across my 3 pages.
+    8. [CSS Formatter](https://www.freeformatter.com/css-beautifier.html)
+         - CSS Formatter was used to beautify my CSS with indentations where needed.
