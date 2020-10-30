@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+/* HTML, Body and Main Page Styling and Properties */
 * {
    margin: 0;
    padding: 0;
@@ -20,6 +22,7 @@ body {
    display: block;
    margin-top: -3.875rem;
 }
+/* End Main Page Styling */
 
 /* Begin Navigation Bar Styling */
 .navbar-dark .navbar-nav .nav-link {
