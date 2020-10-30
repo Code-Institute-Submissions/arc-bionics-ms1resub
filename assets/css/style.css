@@ -99,3 +99,7 @@ ul.social.li {
     font-size: 2rem;
     padding-right: 1.2rem;
 }
+
+hr.socket {
+    border-top: .2rem solid #b36b00;
+}
