@@ -11,10 +11,9 @@
 5. [Features](#features)
 6. [Technologies Used](#techused)
 7. [Testing](#testing)
-8. [Known Bugs](#knownbugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 ## Project Introduction <a name="introduction"></a>
 My Project here is centered around the name of the website which is Arc Bionics. It's mainly designed and catered to
