@@ -130,3 +130,17 @@ To view my live website, please click onto this below:
          - HTML Formatter was used to indent and beautify my code across my 3 pages.
     8. [CSS Formatter](https://www.freeformatter.com/css-beautifier.html)
          - CSS Formatter was used to beautify my CSS with indentations where needed.
+
+## Testing <a name="testing"></a>
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+ - This was used to validate the CSS.
+
+    Results for the validation service can be found [Here](documentation/readme/css-validation.png)
+
+[W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+ - This was used to validate the content of my HTML content.
+
+    Results for the HTML validation can be found [Here](documentation/readme/html-validation1.png) and [Here](documentation/readme/html-validation2.png)
