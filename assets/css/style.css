@@ -140,47 +140,47 @@ hr.socket {
     border-top: .2rem solid #b36b00;
 }
 
-.wrapper {
-    top: 50%;
-    width: 100%;
-    padding: 0 20px;
+.signup-form {
+   margin-top: 150px;
+   color: #000000;
+   background-color: rgba(254, 191, 32, .9);
+   max-width: 400px;
+   position: absolute;
+   padding: 30px;
+   margin-left: 100px;
 }
 
-.contact-form {
-    max-width: 550px;
-    margin: 0 auto;
-    background: rgba(0, 0, 0, 0.8);
-    padding: 30px;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: row;
+.signup-form h2 {
+   color: #000000;
+   margin-bottom: 20px;
 }
 
-.input-fields {
-    display: flex;
-    flex-direction: column;
-    margin-right: 4%;
+.text-input {
+   background: transparent;
+   color: #000000;
+   width: 100%;
+   height: 25px;
+   margin: 5px 0 20px;
+   border: 1px solid #000000;
+   border-radius: 2px;
 }
 
-.input-fields, .msg {
-    width: 48%;
+.text-input:hover {
+   border-color: #ffffff;
 }
 
-.input-fields .input, .msg textarea {
-    margin: 10px;
-    background: transparent;
-    border: 0;
-    border-bottom: 2px solid #e5a607;
-    padding: 10px;
-    color: #c5ecfd;
-    width: 100%;
+.join-button {
+   margin-top: 20px;
+   border-radius: 2px;
+   padding: 15px 32px;
+   text-align: center;
+   font-size: 100%;
+   background-color: #000000;
+   color: #e5a607;
+   display: block;
 }
 
-.btn {
-    background: #e5a607;
-    text-align: center;
-    padding: 15px;
-    border-radius: 5px;
-    color: black;
-    text-transform: uppercase;
+.join-button:hover {
+   background-color: #fafafa;
+   color: #f16c6b;
 }
