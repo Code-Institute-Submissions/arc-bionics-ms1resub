@@ -14,6 +14,13 @@ body {
     overflow-x: hidden;
 }
 
+.offset:before {
+    content: "";
+    height: 3.875rem;
+    display: block;
+    margin-top: -3.875rem;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: #e5a607;
     padding-right: 4rem;
