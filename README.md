@@ -203,3 +203,44 @@ This project was deployed to github by following these steps below..
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 7. You have now deployed the project and this process is completed.
+
+## Credits <a name="credits"></a>
+
+### Code
+
+- [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) was used for mobile first responsiveness as well as fitment for other devices, with automatic bootstrap queries.
+
+### Contents
+
+- All content including HTML and CSS was added by me, as the developer of the website.
+
+- Colour properties and additional hex values was added from [Hex Color Tool](https://www.hexcolortool.com/)
+
+
+### Media
+
+- Images used in  the website were added by [Pexels](https://www.pexels.com)
+    - Some images were then edited by [Pixlr](https://pixlr.com) and were also renamed to make file adding in the code more easier.
+
+- Logo creation was my own work as listed above.
+
+- Icons used within the website were added from [Font Awesome](https://fontawesome.com/)
+
+## Acknowledgements <a name="Acknowledgements"></a>
+
+- First and Foremost to my mentor, Aaron Sinnott. For the continuous help and tips provided to me to ensure I was doing my best. For also providing me with a basic README file to ensure I knew 
+  how to structure my own README.
+
+- The Slack Community for helping me when I was stuck on formatting the website and with media queries as well as with bootstrap assistance.
+
+- [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) for the course material and their inspiration from challenges and mini projects.
+
+- [W3Schools](https://www.w3schools.com/) for a source of go-to help when I could not figure out how to format images and colours and all around support!
+
+- [Open Bionics](https://openbionics.com/) As a source of inspiration and my motivation to pursue this project further, thank you.
+
+- [CSS Tricks](https://css-tricks.com/child-and-sibling-selectors/) when I needed assistance on child selectors and the meaning for each element.
+
+ - [Pexels](https://pexels.com) for providing the media for my  website when I had no images to upload myself. Much thanks to the contributors who uploaded their own images for users to use!
+
+ - [Google](https://google.com) for basic troubleshooting tips, from the littlest of problems to the biggest when I had no idea what was causing the issue.
