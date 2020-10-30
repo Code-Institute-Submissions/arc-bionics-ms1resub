@@ -93,7 +93,7 @@ To view my live website, please click onto this below:
 
 ## Features <a name="features"></a>
 
-- Responsive on all device sizes, from handhelds to tablets by using Media Queries.
+- Responsive on all devices and sizes as well as ease of accessibility with the navigation bar links.
 
 - Interactive Elements used across the website.
 
@@ -244,3 +244,5 @@ This project was deployed to github by following these steps below..
  - [Pexels](https://pexels.com) for providing the media for my  website when I had no images to upload myself. Much thanks to the contributors who uploaded their own images for users to use!
 
  - [Google](https://google.com) for basic troubleshooting tips, from the littlest of problems to the biggest when I had no idea what was causing the issue.
+
+ *Disclaimer: This website has been developed for educational purposes solely.*
