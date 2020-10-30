@@ -12,6 +12,7 @@ html {
 body {
     font-family: 'Noto Sans', sans-serif;
     overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .offset:before {
@@ -141,7 +142,6 @@ hr.socket {
 
 .wrapper {
     top: 50%;
-    transform: translateY(-50%);
     width: 100%;
     padding: 0 20px;
 }
@@ -170,8 +170,17 @@ hr.socket {
     margin: 10px;
     background: transparent;
     border: 0;
-    border-bottom: 2px solid #c5ecfd;
+    border-bottom: 2px solid #e5a607;
     padding: 10px;
     color: #c5ecfd;
     width: 100%;
+}
+
+.btn {
+    background: #e5a607;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    color: black;
+    text-transform: uppercase;
 }
