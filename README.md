@@ -144,3 +144,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  - This was used to validate the content of my HTML content.
 
     Results for the HTML validation can be found [Here](documentation/readme/html-validation1.png) and [Here](documentation/readme/html-validation2.png)
+
+### Testing User Stories from UX Section
+
+- ### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily navigate through the site to find content.
+
+        1. When Entering the site, users are greeted with a vast image with an effect to capture the user's interest.
+            This is reinforced with a ethos which states "The Future of Movement Is Here".
+        2. A Navigation Bar is present for ease of accessibility, and as this is a one page website, users can click any link within the
+            navigation bar and it will directly take the user to that area of the website. This itself adds ease of navigation and ensures
+            there is fluidity within the website.
+        
+        <h2 align="center"><img src="/documentation/readme/userstory-2.png"></h2>
+    
+    2. As a First Time Visitor, I want to be able to browse the social links to see how known they are.
+
+        1. The website contains a footer with interactive links to choose that will take you to further social sites to learn more about the company itself and opens in another tab, leaving the website in a tab of its own.
+
+        <h2 align="center"><img src="/documentation/readme/userstory-1.png"></h2>
+
+    3. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
+
+
+        1. The website has a seperate page labelled as 'Contact Us'. This page has a clear and concise form to interact with.
+        2. The form itself is clearly labelled and does not let you submit  unless you fill in all the fields which is good user experience.
+
+        <h2 align="center"><img src="/documentation/readme/visitor-stories-form.png"></h2>
