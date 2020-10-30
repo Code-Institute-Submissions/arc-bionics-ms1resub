@@ -21,6 +21,7 @@ body {
    margin-top: -3.875rem;
 }
 
+/* Begin Navigation Bar Styling */
 .navbar-dark .navbar-nav .nav-link {
    color: #e5a607;
    padding-right: 4rem;
@@ -44,7 +45,9 @@ body {
 .bg-dark {
    background-color: #000000!important;
 }
+/* End Navigation Bar Styling */
 
+/* Styling for Main content of html */
 .main {
    position: relative;
    background-image: url("../images/pexels-welcome-arc.jpg");
@@ -95,7 +98,9 @@ body {
    font-weight: 700;
    padding-bottom: 1rem;
 }
+/* End main container styling */
 
+/* Hover effects for images used in the gallery section */
 .gallery-item img:hover {
    transform: scale(1.1);
 }
@@ -103,7 +108,9 @@ body {
 .gallery-item img {
    transition: transform .4s ease;
 }
+/* End hover effect code for images */
 
+/* Begin Footer styling and sizing */
 .footer {
    background-color: #cc7a00;
 }
@@ -138,7 +145,9 @@ ul.social.li {
 hr.socket {
    border-top: .2rem solid #b36b00;
 }
+/* End footer customisation and styling */
 
+/* Begin Form Section CSS Styling */
 .form-section {
    clear: left;
    background-image: url("../images/pexels-engineering.jpg");
@@ -191,7 +200,9 @@ hr.socket {
    background-color: #fafafa;
    color: #f16c6b;
 }
+/* End Form Signup Customisation */
 
+/* Media Queries for Specific Devices */
 @media screen and (max-width: 823px) {
    .signup-form {
       margin-left: inherit;
