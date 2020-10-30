@@ -172,3 +172,34 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. The form itself is clearly labelled and does not let you submit  unless you fill in all the fields which is good user experience.
 
         <h2 align="center"><img src="/documentation/readme/visitor-stories-form.png"></h2>
+    
+     ## Further Testing
+     - The Website was tested on multiple browsers; Chrome, Firefox, Microsoft Edge and Safari.
+     - The Website was viewed on multiple devices, iPhone XS/6s and 7 Plus, Desktop, iPad and Huawei P30 Lite.
+     - Continuous testing took place to ensure the pages were linked correctly and that images were shown with no marginal errors across the screen.
+     - Family members were asked to test the website for me and their stories can be found below;
+    
+    
+    ## Further Testing Stories (Family)
+    - "Upon entering the website, the structure was clear and I could make my way around with ease with easily navigational links placed at the top."
+
+    - "The Gallery/portfolio section responds well on both mobile and desktop with both margins at the side to ensure the images are centered."
+
+    - "Footer placed well and social links and styling match the theme of the website. The links itself open in a new tab to ensure the website stays open."
+
+    - "Contact page with the form is positioned in a way where the user can clearly view the background image as well as filling in the required details with identifiable labels."
+
+
+## Deployment <a name="deployment"></a>
+
+###  Github Pages
+
+This project was deployed to github by following these steps below..
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+7. You have now deployed the project and this process is completed.
