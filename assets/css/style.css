@@ -26,6 +26,14 @@ body {
     color: #ffffff!important;
 }
 
+.navbar-dark .navbar-brand {
+    font-size: 2.4rem;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #e5a607;
+}
+
 .bg-dark {
     background-color: #000000!important;
 }
